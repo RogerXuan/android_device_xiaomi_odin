@@ -1,4 +1,4 @@
-# Android device tree for Xiaomi 2106118C (odin)
+# Android device tree for Xiaomi MIX4 (odin)
 
 ```
 #
